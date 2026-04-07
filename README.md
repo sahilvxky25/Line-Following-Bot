@@ -156,3 +156,6 @@ Library: None (standard Arduino only)
 
 
 *Built with Arduino Nano + Tinkercad · Schematic: Terrific Leelo-Tumelo*
+
+# Owner
+Sahil Kumar Patra, Somya Ranjan Suar
